@@ -1,5 +1,6 @@
 <?php
 
+
     class RockPaperScissorsGame
     {
         function playRPS($input1, $input2)
@@ -28,7 +29,7 @@
                 return "Player 2's rock smashes Player 1's stupid scissors.";
             }
 
-            elseif ($input1 == $input2) {
+            else {
                 return "No One Wins. Ever. Life's pointless....";
             }
         }
