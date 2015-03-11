@@ -1,0 +1,29 @@
+Spec 1
+
+input 1: rock, and input 2: rock then return "draw"
+
+Spec 2
+input 1: scissor, and input 2: scissor then return "draw"
+
+Spec 3
+input 1: paper, and input 2: paper then return "Draw"
+
+----------------------------------------------
+Spec 4
+input 1: rock, and input 2: scissors then return "player 1"
+
+Spec 5
+input 1: paper, and input 2: rock then return "player 1"
+
+Spec 6
+input 1: scissor, and input 2: paper then return "player 1"
+
+-------------------------------------------------
+Spec 7
+input 1: rock, and input 2: paper then return "player 2"
+
+Spec 8
+input 1: scissor, and input 2: rock then return "player 2"
+
+Spec 9
+input 1: paper, and input 2: scissor then return "player 2"
